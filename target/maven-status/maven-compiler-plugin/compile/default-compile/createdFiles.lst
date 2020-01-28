@@ -1,0 +1,9 @@
+com/denys/springcontextinitsteps/models/MyBean.class
+com/denys/springcontextinitsteps/BeanPostProcessor/InjectRandomIntBeanPostProcessor.class
+com/denys/springcontextinitsteps/environmentPostProcessor/MyEnvironmentPostProcessor.class
+com/denys/springcontextinitsteps/BeanFactoryPostProcessor/CustomBeanFactoryPostProcessor.class
+com/denys/springcontextinitsteps/SpringContextInitStepsApplication.class
+com/denys/springcontextinitsteps/controller/HomeController.class
+com/denys/springcontextinitsteps/FactoryBean/ColorFactory.class
+com/denys/springcontextinitsteps/applicationContextInitializer/MyApplicationInitializer.class
+com/denys/springcontextinitsteps/BeanPostProcessor/InjectRandomInt.class

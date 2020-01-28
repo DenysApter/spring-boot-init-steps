@@ -1,0 +1,9 @@
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/environmentPostProcessor/MyEnvironmentPostProcessor.java
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/SpringContextInitStepsApplication.java
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/BeanPostProcessor/InjectRandomIntBeanPostProcessor.java
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/models/MyBean.java
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/BeanFactoryPostProcessor/CustomBeanFactoryPostProcessor.java
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/BeanPostProcessor/InjectRandomInt.java
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/FactoryBean/ColorFactory.java
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/controller/HomeController.java
+/Users/denys/Documents/Idea projects/spring-context-init-steps/src/main/java/com/denys/springcontextinitsteps/applicationContextInitializer/MyApplicationInitializer.java

@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor = com.denys.springcontextinitsteps.environmentPostProcessor.MyEnvironmentPostProcessor
+org.springframework.context.ApplicationContextInitializer = com.denys.springcontextinitsteps.applicationContextInitializer.MyApplicationInitializer
